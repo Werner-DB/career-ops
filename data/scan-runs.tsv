@@ -1,0 +1,5 @@
+timestamp	status	companies	boards	found	filtered_title	filtered_tier	filtered_location	filtered_posting_age	filtered_salary	filtered_content	filtered_cooldown	dupes	new_added	errors	filtered_blacklist	filtered_visa	filtered_posted_date	filtered_country_eligibility
+2026-11-08T23:27:38.674Z	completed	102	1	14632	13895	0	718	8	0	0	0	0	11	1	0	0	0	0
+2026-11-09T09:16:14.817Z	completed	102	1	14841	14021	0	804	11	0	0	0	4	1	1	0	0	0	0
+2026-11-09T10:04:43.088Z	completed	102	1	14722	13870	0	723	70	0	0	0	14	45	1	0	0	0	0
+2026-11-09T10:04:58.617Z	completed	102	1	14616	13763	0	724	70	0	0	0	59	0	1	0	0	0	0

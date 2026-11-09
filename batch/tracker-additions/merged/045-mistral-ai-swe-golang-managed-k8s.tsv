@@ -1,0 +1,2 @@
+num	date	company	role	status	score	pdf	report	notes	url
+045	2026-11-09	Mistral AI	Software Engineer (Golang), Managed K8s	Evaluated	2.5/5	❌	[045](reports/045-mistral-ai-swe-golang-managed-k8s-2026-11-09.md)	Mistral — Skip — Le CV opère Kubernetes mais ne le construit pas et n'utilise pas Go. Le rôle demande d'écrire la control plane, hors pér	https://jobs.ashbyhq.com/mistral.ai/037f507d-f369-4d2a-a939-45bb740df644

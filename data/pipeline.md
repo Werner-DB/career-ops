@@ -1,0 +1,152 @@
+# Pipeline — Pending URLs
+
+Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
+
+## Pending
+
+
+
+
+
+## Processed
+
+- [x] [098](../reports/098-resend-developer-tools-2026-11-09.md) | https://jobs.ashbyhq.com/resend/53d3710a-2d55-42ac-ba90-cdfd306bf560 | Resend | Software Engineer, Developer Tools | 4.0/5 | PDF ✅
+- [x] [099](../reports/099-elevenlabs-mexico-2026-11-09.md) | https://jobs.ashbyhq.com/ElevenLabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb | ElevenLabs | Forward Deployed Engineer - Software Engineer - Mexico | 3.9/5 | PDF ✅
+- [x] ~~https://jobs.ashbyhq.com/ElevenLabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer - USA | San Francisco · United States · New York · New York City · Remote | posted: 2026-10-14~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/ElevenLabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6 | ElevenLabs | Forward Deployed Engineer - Software Engineer - United Kingdom | London · United Kingdom · Remote | posted: 2026-10-04~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/cfc85072-6669-4671-afd4-e860f7072668 | Temporal | Staff Software Engineer, Compute (Temporal Cloud) | United States (Remote) | 190800-255195 USD | posted: 2026-11-04~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/81cc8698-59f8-418a-85fd-1fc154b33ee4 | Temporal | Software Engineer II, Open Source Server | United States (Remote) · Seattle, Washington · Seattle · United States · San Francisco, California | 148000-194250 USD | posted: 2026-09-29~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/4ee99986-77ad-4113-8058-891d5cc7284a | Temporal | Staff Software Engineer, AI Foundations (AI Agent Optimization) | United States (Remote) · Canada (Remote) · Canada | 212000-278250 USD | posted: 2026-10-15~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/dc4021c5-b1d0-49a8-8342-6c68969192b5 | Temporal | Staff Software Engineer, Replication Foundations | United States (Remote) · Seattle, Washington · Seattle · United States | 212000-278250 USD | posted: 2026-09-28~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/15bf95f9-4589-42cf-b853-1f624aef77f2 | Temporal | Senior Software Engineer, Nexus Server | Seattle, Washington · Seattle · United States · San Francisco, California · Remote | 176000-231000 USD | posted: 2026-10-07~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/dfa01032-82b4-443f-bfdc-1a20bd976b9c | Temporal | Senior Staff Software Engineer - Builder Platform | United States (Remote) · Canada (Remote) · Canada | 260000-341250 USD | posted: 2026-11-03~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/a60877d2-e825-4e0f-9f36-230352a9f193 | Temporal | Senior Software Engineer, Cloud Capacity | United States (Remote) · San Francisco, California · United States | 176000-231000 USD | posted: 2026-10-13~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/a1e22a53-a8c2-410d-9385-814a488dd6c1 | Temporal | Staff Software Engineer - Builder Platform | United States (Remote) · Canada (Remote) · Canada | 212000-278250 USD | posted: 2026-11-03~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/86db065f-0f55-4985-b0f1-ce6a5e75f622 | Temporal | Senior Software Engineer - Builder Platform | United States (Remote) | 176000-231000 USD | posted: 2026-11-03~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/25ab987b-b07e-424b-8ce9-eb10de739a7f | Temporal | Staff Software Engineer, Infrastructure Foundations | United States (Remote) | 212000-278250 USD | posted: 2026-11-03~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/e3d7f035-7946-469f-84cf-e1c775bf25e8 | Temporal | Software Engineer II, Cloud Applications | United States (Remote) | 148000-194250 USD | posted: 2026-10-26~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/temporal/011bf96a-0e14-4b61-9fb9-b19ef6705a71 | Temporal | Senior Software Engineer, Cloud Applications | United States (Remote) | 176000-231000 USD | posted: 2026-11-06~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/runpod/b64a3935-931a-4b7f-9899-7ebe152164c5 | RunPod | Software Engineer (Full-Stack) | Remote - USA · United States | posted: 2026-10-09~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/runpod/06046760-4649-4821-acdf-0f89c54f88b8 | RunPod | Technical Program Manager (Software Engineer) | Remote - USA · United States | posted: 2026-10-13~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://job-boards.greenhouse.io/anthropic/jobs/5456018008 | Anthropic | IT Systems Engineer, Client Platform Engineer, ChromeOS | Boston, MA; Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY; Washington, DC | posted: 2026-10-19~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://job-boards.greenhouse.io/anthropic/jobs/5445625008 | Anthropic | IT Systems Engineer, Client Platform Engineer, macOS | Boston, MA; Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY; Washington, DC | posted: 2026-10-07~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://job-boards.greenhouse.io/anthropic/jobs/5435665008 | Anthropic | Senior+ Software Engineer, Legal Tech | Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY | posted: 2026-09-29~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://job-boards.greenhouse.io/anthropic/jobs/5466480008 | Anthropic | Staff+ Software Engineer, Deployment | Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY | posted: 2026-10-28~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://job-boards.greenhouse.io/anthropic/jobs/5456453008 | Anthropic | Staff+ Software Engineer, Memory & Search | New York City, NY; New York City, NY / Seattle, WA; Remote-Friendly, United States; San Francisco, CA / New York City, NY / Seattle, WA | posted: 2026-10-19~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b | Cohere | Staff/Senior Staff Software Engineer, Agent Infrastructure | Toronto · Canada · United States · San Francisco · Remote | 340000-450000 CAD | posted: 2026-10-22~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] [101](../reports/101-cohere-inference-2026-11-09.md) | https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6 | Cohere | Senior/Staff Software Engineer (Back-End), Inference | 3.5/5 | PDF ✅
+- [x] ~~https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4 | Cohere | Software Engineer, GPU Infrastructure | Seattle · United States · Canada · New York · California · Remote | 250000-400000 CAD | posted: 2026-11-06~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97 | Cohere | Software Engineer, ML Workload Platform | Canada · United States · San Francisco · Remote | 250000-400000 CAD | posted: 2026-11-06~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] ~~https://jobs.lever.co/spotify/9899871a-4307-4367-9f74-039569d7a650 | Spotify | Full Stack Engineer - Music | New York, NY; Remote | posted: 2026-10-02~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] [100](../reports/100-spotify-toronto-2026-11-09.md) | https://jobs.lever.co/spotify/e04833c0-9cff-4b5e-b217-91a3bcb57051 | Spotify | Senior Software Engineer | 3.6/5 | PDF ✅
+- [x] ~~https://jobs.ashbyhq.com/Perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413 | Perplexity | Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | San Francisco · United States · Remote (United States) · Toronto · Seattle · New York City | 250000-485000 USD | posted: 2026-10-28~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] [102](../reports/102-resend-platform-engineer-2026-11-09.md) | https://jobs.ashbyhq.com/resend/a9fc1d02-cace-4be9-8d3d-16f4fb137b39 | Resend | Platform Engineer | 3.2/5 | PDF ❌
+- [x] ~~https://jobs.lever.co/pigment/a6d45343-dbcc-4e5f-b4de-5db62af4886a | Pigment | Software Engineering Manager (Hands-On, Frontend) | London; Remote | posted: 2026-10-28~~ — Skip (US-only strict / Staff 7-10+ ans / IT-ops / TPM / manager)
+- [x] [084](../reports/084-n8n-senior-product-engineer-2026-11-09.md) | https://jobs.ashbyhq.com/n8n/896c58a8-0388-4037-b265-82b15633a568 | n8n | Senior Product Engineer (TS/NodeJS/Vue) | 4.3/5 | PDF ❌
+- [x] [085](../reports/085-duvo-product-engineer-2026-11-09.md) | https://jobs.ashbyhq.com/duvo/f44f9e55-233c-4d8a-8c37-9e531d9c1814 | Duvo | Product Engineer (EU/UK Based - Remote) | 4.0/5 | PDF ❌
+- [x] [086](../reports/086-supabase-auth-2026-11-09.md) | https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d | Supabase | Software Engineer - Auth | 4.0/5 | PDF ❌
+- [x] [087](../reports/087-supabase-branching-2026-11-09.md) | https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60 | Supabase | Software Engineer - Branching | 3.9/5 | PDF ❌
+- [x] [088](../reports/088-supabase-ai-platform-engineer-2026-11-09.md) | https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541 | Supabase | AI Platform Engineer | 3.8/5 | PDF ❌
+- [x] [089](../reports/089-elevenlabs-payments-2026-11-09.md) | https://jobs.ashbyhq.com/ElevenLabs/e4e0450f-d139-4f8e-b210-2f326a680d90 | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Payments Engineering | 4.0/5 | PDF ❌
+- [x] [090](../reports/090-elevenlabs-creative-agents-2026-11-09.md) | https://jobs.ashbyhq.com/ElevenLabs/35813150-a851-4821-b732-a037b4e6c4fe | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Creative Agents  | 3.9/5 | PDF ❌
+- [x] [091](../reports/091-elevenlabs-ads-engine-2026-11-09.md) | https://jobs.ashbyhq.com/ElevenLabs/3abf96ca-2937-4290-9d23-5208aece08b2 | ElevenLabs | Full-Stack Engineer - Ads Engine | 3.7/5 | PDF ❌
+- [x] [092](../reports/092-constructor-experiments-2026-11-09.md) | https://jobs.ashbyhq.com/constructor/4e7cfde4-c2ba-4251-b95f-7bcf9793984a | Constructor | BackEnd Engineer: Experiments | 3.8/5 | PDF ❌
+- [x] [093](../reports/093-constructor-core-2026-11-09.md) | https://jobs.ashbyhq.com/constructor/8f6f9407-bd8a-4966-bf41-cd41321eca52 | Constructor | Software Engineer: Core | 3.9/5 | PDF ❌
+- [x] [094](../reports/094-pigment-senior-backend-software-engineer-2026-11-09.md) | https://jobs.lever.co/pigment/bf7cacad-0f52-4db4-88d4-ad7b22bd852e | Pigment | Senior Backend Software Engineer | 4.0/5 | PDF ❌
+- [x] [095](../reports/095-triggerdev-appsec-2026-11-09.md) | https://jobs.ashbyhq.com/triggerdev/cf7e7521-b323-41b8-917b-2972685c7791 | Trigger.dev | Senior Software Engineer (AppSec) | 3.7/5 | PDF ❌
+- [x] [096](../reports/096-constructor-prospect-data-2026-11-09.md) | https://jobs.ashbyhq.com/constructor/bdc3ed45-16f8-4e57-8d4c-a29a99729a4f | Constructor | FullStack Engineer - Prospect Data Solutions | 3.7/5 | PDF ❌
+- [x] [097](../reports/097-resend-developer-tools-2026-11-09.md) | https://jobs.ashbyhq.com/resend/2e3d92c5-79d9-4511-8faf-e2326e7a081e | Resend | Software Engineer, Developer Tools | 3.8/5 | PDF ✅
+- [x] [074](../reports/074-resend-trust-safety-2026-11-09.md) | https://jobs.ashbyhq.com/resend/73a37f4c-02d9-40e4-a116-70507ed413b9 | Resend | Software Engineer, Trust & Safety | 3.6/5 | PDF ✅
+- [x] [072](../reports/072-elevenlabs-fullstack-backend-2026-11-09.md) | https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0 | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Platform Engineering | 4.2/5 | PDF ✅
+- [x] [083](../reports/083-cohere-mlops-2026-11-09.md) | https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4 | Cohere | Software Engineer, ML Ops | 3.3/5 | PDF ❌
+- [x] [077](../reports/077-supabase-storage-2026-11-09.md) | https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520 | Supabase | Software Engineer - Storage | 3.3/5 | PDF ❌
+- [x] [073](../reports/073-resend-backend-mta-2026-11-09.md) | https://jobs.ashbyhq.com/resend/c4c5eb8c-e6ac-49f5-9dc7-a68ce0948929 | Resend | Backend Engineer, MTA | 4.1/5 | PDF ✅
+- [x] [082](../reports/082-n8n-staff-platform-2026-11-09.md) | https://jobs.ashbyhq.com/n8n/1af7a193-334d-4d5c-b45d-250122d9c3f1 | n8n | Staff Platform Engineer, Agentic Engineering | 3.4/5 | PDF ✅
+- [x] [080](../reports/080-supabase-compute-2026-11-09.md) | https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757 | Supabase | Platform Engineer - Compute | 3.0/5 | PDF ❌
+- [x] [075](../reports/075-supabase-ai-tooling-infra-2026-11-09.md) | https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11 | Supabase | Software Engineer - AI Tooling Infrastructure | 3.5/5 | PDF ✅
+- [x] [081](../reports/081-supabase-turso-2026-11-09.md) | https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259 | Supabase | Software Engineer - Turso | 3.2/5 | PDF ❌
+- [x] [079](../reports/079-supabase-cloud-platform-2026-11-09.md) | https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4 | Supabase | Cloud Platform Engineer | 3.0/5 | PDF ❌
+- [x] [078](../reports/078-supabase-managed-postgres-2026-11-09.md) | https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5 | Supabase | Platform Engineer, Managed Postgres | 3.3/5 | PDF ❌
+- [x] [076](../reports/076-supabase-data-api-2026-11-09.md) | https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0 | Supabase | Data API Engineer | 3.0/5 | PDF ❌
+- [x] ~~https://jobs.volkswagen-group.com/Electrify_America/job/Software-Developer-II-Backend/1451871333/ | CARIAD (Volkswagen) | Software Developer II - Backend~~ — Skip (poste US + 5+ ans Java/Spring, hors zone)
+- [x] [064](../reports/064-duck-duck-go-2026-11-09.md) | https://jobs.ashbyhq.com/duck-duck-go/53022b02-da3d-4fda-8273-c897d27ed50d | DuckDuckGo | Senior Backend Engineer | 3.9/5 | PDF ✅
+- [x] [061](../reports/061-pennylane-2026-11-09.md) | https://jobs.ashbyhq.com/pennylane/18f252a7-7b19-44b6-b175-6dfcaea8b2e8 | Pennylane | Growth Engineer - Data & Tracking | 3.3/5 | PDF ✅
+- [x] [067](../reports/067-spruceid-2026-11-09.md) | https://jobs.ashbyhq.com/spruceid/491c3062-8aae-425f-bcc7-9451ff180997 | SpruceID | Full-Stack Software Engineer – Remote | 2.7/5 | PDF ✅
+- [x] [068](../reports/068-zencastr-2026-11-09.md) | https://jobs.ashbyhq.com/zencastr/c4c91cc0-c5f9-4773-ab04-d239f9455aee | Zencastr | Senior Fullstack Engineer (Remote) | 2.9/5 | PDF ✅
+- [x] [063](../reports/063-linear-2026-11-09.md) | https://jobs.ashbyhq.com/Linear/cd5ae036-0223-427a-b038-ba16ef9dcb32 | Linear | Senior / Staff Fullstack Engineer | 4.0/5 | PDF ✅
+- [x] [062](../reports/062-wayflyer-2026-11-09.md) | https://jobs.ashbyhq.com/wayflyer/f907ed95-7d42-45da-ba6c-983d7e0d31aa | Wayflyer | Frontend Software Engineer | 3.1/5 | PDF ✅
+- [x] [071](../reports/071-remotepeople-2026-11-09.md) | https://job-boards.greenhouse.io/remotepeople/jobs/5011829101 | Remote People | Full Stack Engineer (APAC) | 2.9/5 | PDF ✅
+- [x] [066](../reports/066-firstup-2026-11-09.md) | https://jobs.lever.co/firstup/28b3e9f0-9b31-445c-b7de-500bff93da94 | Firstup | Sr. Software Engineer, Fullstack | 3.0/5 | PDF ✅
+- [x] [070](../reports/070-bluelight-consulting-2026-11-09.md) | https://jobs.lever.co/bluelightconsulting/348657d1-5e2f-448d-adfa-806b39b9d6eb/apply?lever-origin=applied&lever-source%5B%5D=Jobgether | Bluelight Consulting | Senior Python/Flask+React Fullstack Engineer | 2.9/5 | PDF ✅
+- [x] [069](../reports/069-oowlish-2026-11-09.md) | https://jobs.lever.co/oowlish/240424ff-5a04-44df-b9bf-5530bccf7727 | Oowlish | Senior Software Engineer (Full Stack, Node.js & React, AI Focus) | 2.8/5 | PDF ✅
+- [x] [065](../reports/065-close-2026-11-09.md) | https://jobs.ashbyhq.com/close/01fc4ad7-4d33-4f64-919f-502bb2c20efc | Close | Senior Software Engineer – Backend | 3.2/5 | PDF ✅
+- [x] ~~https://jobs.ashbyhq.com/zencastr/e5897c7a-4622-495b-a892-81763a2ef112/application | Zencastr | Senior Backend Engineer (Remote)~~ — duplicate (evaluated via canonical URL #50)
+- [x] ~~https://jobs.ashbyhq.com/duna/909c7363-8eb0-4d61-9486-d794eeb42de9/application | Duna | (Senior/Staff) Backend Engineer~~ — duplicate (evaluated via canonical URL #49)
+- [x] ~~https://jobs.ashbyhq.com/camunda/af27a3de-d3ba-40dd-976f-9767bdc1e7e8/application | Camunda | Senior Software Engineer, Backend - Distributed Systems~~ — duplicate (evaluated via canonical URL #31)
+- [x] ~~https://jobs.lever.co/innocraft/e22e02f0-31ae-4650-8304-d236b34c8cda | innocraft | InnoCraft - Full Stack Product Engineer~~ — posting expired (removed from Lever board)
+- [x] [33](../reports/033-photoroom-2026-11-09.md) | https://jobs.ashbyhq.com/photoroom/5dc9a4e6-f56d-40f7-a659-b57e1ea5d97d | Photoroom | Senior Backend Engineer (Django) | 3.9/5 | PDF ✅
+- [x] [34](../reports/034-upflow-2026-11-09.md) | https://jobs.ashbyhq.com/upflow/06708b54-d7f8-4956-af38-5ef27218d9a1 | Upflow | Senior Full Stack Engineer | 4.3/5 | PDF ✅
+- [x] [35](../reports/035-escape-2026-11-09.md) | https://jobs.ashbyhq.com/escape/32e02dde-b428-4ed5-8a50-51e98fca5ddc | Escape | Senior Full Stack Engineer (AI & Security) | 4.0/5 | PDF ✅
+- [x] [36](../reports/036-alma-2026-11-09.md) | https://job-boards.greenhouse.io/alma31/jobs/4516565101 | Alma | Software Backend Engineer - Senior / Confirmed (Paris or Remote France) | 3.6/5 | PDF ✅
+- [x] [37](../reports/037-morpho-2026-11-09.md) | https://jobs.ashbyhq.com/morpho/c3f651fe-5df8-4aba-8db2-e936f2cdbcf6 | Morpho | Staff Fullstack Engineer | 3.3/5 | PDF ✅
+- [x] [38](../reports/038-pigment-2026-11-09.md) | https://jobs.lever.co/pigment/538dade3-4581-4280-96bd-6e9e1de4dd4b | Pigment | Senior Platform Engineer | 3.6/5 | PDF ✅
+- [x] [39](../reports/039-mistral-ai-forward-swe-2026-11-09.md) | https://jobs.ashbyhq.com/mistral.ai/9bebc981-cb93-4040-9ec8-9f7bbfef300f | Mistral AI | Forward Software Engineer | 4.4/5 | PDF ✅
+- [x] [40](../reports/040-mistral-ai-forward-swe-data-2026-11-09.md) | https://jobs.ashbyhq.com/mistral.ai/242aabbf-a2de-4824-8610-561258083268 | Mistral AI | Forward Software Engineer, Data | 3.5/5 | PDF ✅
+- [x] [41](../reports/041-mistral-ai-swe-golang-storage-2026-11-09.md) | https://jobs.ashbyhq.com/mistral.ai/60468d75-a3b9-4efa-ad9d-41f61592f427 | Mistral AI | Software Engineer (Golang), Storage | 2.2/5 | PDF ✅
+- [x] [42](../reports/042-mistral-ai-swe-golang-serverless-2026-11-09.md) | https://jobs.ashbyhq.com/mistral.ai/a94943c7-632f-4ae6-8076-1d7d57e2a3a5 | Mistral AI | Software Engineer (Golang), Serverless Containers | 2.2/5 | PDF ✅
+- [x] [43](../reports/043-mistral-ai-swe-golang-fleet-2026-11-09.md) | https://jobs.ashbyhq.com/mistral.ai/926f9306-c524-4161-8b06-21a85cd3bfd5 | Mistral AI | Software Engineer (Golang), Fleet Delivery | 2.1/5 | PDF ✅
+- [x] [44](../reports/044-mistral-ai-swe-golang-sandbox-2026-11-09.md) | https://jobs.ashbyhq.com/mistral.ai/d23aec52-d08e-4a99-bc17-b7f98a6be0d4 | Mistral AI | Software Engineer (Golang), Sandbox | 2.2/5 | PDF ✅
+- [x] [45](../reports/045-mistral-ai-swe-golang-managed-k8s-2026-11-09.md) | https://jobs.ashbyhq.com/mistral.ai/037f507d-f369-4d2a-a939-45bb740df644 | Mistral AI | Software Engineer (Golang), Managed K8s | 2.5/5 | PDF ✅
+- [x] [46](../reports/046-mistral-ai-swe-frontend-2026-11-09.md) | https://jobs.ashbyhq.com/mistral.ai/c0d319b2-eeef-471f-b4b1-db1f6c56289c | Mistral AI | Software Engineer, Frontend | 3.0/5 | PDF ✅
+- [x] [47](../reports/047-plentific-2026-11-09.md) | https://jobs.ashbyhq.com/plentific/1457ea09-10e5-4cff-bd80-0ab845c9edf6 | Plentific | Senior Backend Engineer - Remote (EU) | 4.1/5 | PDF ✅
+- [x] [48](../reports/048-trigger-dev-2026-11-09.md) | https://jobs.ashbyhq.com/triggerdev/6f0f1783-fb08-4ec6-97d1-3f2c26005faf | Trigger.dev | Senior Backend Engineer (Europe) | 4.2/5 | PDF ✅
+- [x] [49](../reports/049-duna-2026-11-09.md) | https://jobs.ashbyhq.com/duna/909c7363-8eb0-4d61-9486-d794eeb42de9 | Duna | (Senior/Staff) Backend Engineer | 3.9/5 | PDF ✅
+- [x] [50](../reports/050-enode-2026-11-09.md) | https://jobs.ashbyhq.com/enode/83a3de6b-5f7c-4bcd-a374-ed55025af38d | Enode | Senior Software Engineer (Home Energy) | 3.7/5 | PDF ✅
+- [x] [52](../reports/052-constructor-2026-11-09.md) | https://jobs.ashbyhq.com/constructor/630a1c38-e1be-48f9-a565-fcfdd3db6f24 | Constructor | Senior Backend Engineer: Machine Learning Infrastructure | 3.4/5 | PDF ✅
+- [x] [53](../reports/053-oaks-lab-2026-11-09.md) | https://jobs.ashbyhq.com/oakslab/3fb1bab3-5182-4866-bc17-9b18199f4468 | OAK'S LAB | Senior Software Engineer (Node&React) | 3.3/5 | PDF ✅
+- [x] [54](../reports/054-savvymoney-2026-11-09.md) | https://jobs.ashbyhq.com/savvymoney/f1d6d55f-949d-43a4-9e78-8927a5afdaae | SavvyMoney | Lead ML/AI Platform Engineer (EU, EMEA Remote) | 2.8/5 | PDF ✅
+- [x] [55](../reports/055-zerion-2026-11-09.md) | https://jobs.lever.co/zerion/d10ab83b-f425-49c2-bc93-09a14e97c2b8 | Zerion | Senior Backend Engineer | 3.5/5 | PDF ✅
+- [x] [56](../reports/056-entefy-2026-11-09.md) | https://jobs.lever.co/entefy/f1d71d1e-5679-40fd-a3e3-72e3c016a6c9 | Entefy | Backend Engineer (Remote Position) | 3.8/5 | PDF ✅
+- [x] [57](../reports/057-supermove-2026-11-09.md) | https://jobs.lever.co/supermove/a0d545ec-c114-45e5-8707-16e5c1997182 | Supermove | Software Engineer, Backend & Integrations (Remote) | 3.4/5 | PDF ✅
+- [x] [58](../reports/058-lightning-labs-2026-11-09.md) | https://jobs.ashbyhq.com/lightning/fde1d2b6-99e1-404a-b343-c35b2c40f9ae | Lightning Labs | Platform Engineer (Remote) | 3.0/5 | PDF ✅
+- [x] [59](../reports/059-virtualitics-2026-11-09.md) | https://jobs.lever.co/virtualitics/b74f87bc-59ad-49cf-a6c5-9361e3bbb19b | Virtualitics | Full Stack Engineer | 2.8/5 | PDF ✅
+- [x] [60](../reports/060-scalera-2026-11-09.md) | https://jobs.ashbyhq.com/scalera/9feb0781-ace4-49b6-b8dd-be6a6a720b4e | Scalera | Senior Backend Engineer (Python) (Remote) | 3.2/5 | PDF ✅
+- [x] ~~https://jobs.ashbyhq.com/photoroom/e3c89393-eed9-4784-8a48-c96b823a309a | Photoroom | Senior Backend Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/li.fi/41ec6850-0344-4df8-8519-d857e34566a9 | LI.FI | Senior Backend Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/creatoriq/13c595be-d03f-4472-8082-2d5995a9d03f | CreatorIQ | Senior Backend Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/jiga/96b31de8-9ee2-4110-9314-82f47850bf07/application | Jiga | Full Stack Product Engineer - Remote/Europe~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/clera/45d11eeb-5a29-4de0-a7e2-def66e791c12 | Clera | Senior Fullstack Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/camunda/57c7aef5-f043-4b3b-b88d-3180f18bbb9d | Camunda | Senior Software Engineer, Backend - Core/API & Process Automation~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/remotecom/jobs/7774702003 | remotecom | Job Application for Senior Backend Engineer (Elixir) at Remote~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/remotecom/jobs/7763647003 | remotecom | Senior Backend Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/remotecom/jobs/7703930003 | remotecom | Job Application for Senior Backend Engineer at Remote~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/remotecom/jobs/7491229003 | remotecom | Job Application for Senior Backend Engineer (Elixir) ...~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/kalepa/jobs/4359659004 | kalepa | Job Application for Backend Engineer (Europe) at Kalepa~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/remotepeople/jobs/4665017101 | remotepeople | Job Application for Full Stack Engineer at Remote People~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/allbooked/jobs/5027753007 | allbooked | Job Application for Software Engineer - Full-Stack (Remote) at AllBooked~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/qualio/jobs/7577749003 | qualio | Job Application for Full Stack Engineer (Remote EU) at Qualio~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/allbooked/jobs/4795844007 | allbooked | Job Application for Senior Full-Stack Software Engineer (Remote) at AllBooked~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/kalepa/jobs/4359670004 | kalepa | Job Application for Full Stack Engineer (Europe) at Kalepa~~ — posting expired (liveness sweep)
+- [x] ~~https://boards.greenhouse.io/freenow/jobs/3614416 | freenow | Job Application for Fullstack Engineer - Marketplace (m/f/d) - Hamburg or remote in EU at FREE NOW~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/jobgether/3e87f781-b295-48a9-9711-e2853dd5e1b2 | jobgether | Jobgether - Senior Backend Software Engineer - Future Hiring Program~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/qonto/d36db188-ab16-43b6-86a8-47ed9cdd29b1 | qonto | Qonto - Senior / Staff Backend Engineer - remote friendly~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/jobgether/bbc42d5a-e122-4af3-b01c-b899a9dae249 | jobgether | Jobgether - Senior Backend Engineer (f/m/x)~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/remofirst/cad84563-d915-430b-bbef-5443830cb679 | remofirst | RemoFirst - Staff Backend Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/jobgether/34737139-612a-429c-838d-4bde35931990 | jobgether | Jobgether - Full Stack Software Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/jobgether/c1e7a20b-4e99-4011-8349-edcf68b627ca | jobgether | Jobgether - Fullstack Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/jobgether/0cdb88c0-79f0-449c-ac59-7e6d67712380 | jobgether | Jobgether - Senior/Staff TypeScript Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/jobgether/f287bbb2-706a-4ab2-99c8-c340378e960e | jobgether | Jobgether - Senior Software Engineer (Node.js/Python)~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/pragmatike/fd7bd509-9bd1-4385-beaf-86fd036f8f61 | Pragmatike | Fullstack Software Engineer (TypeScript) - US Remote~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/Fliff/f933b4aa-5911-490b-bb6d-c3de2994ffdc | Fliff | Python Engineer II - Fliff~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/splitmetrics/dc6219e2-c718-49f4-8976-1bd23d3fa808 | SplitMetrics | Senior Backend Engineer (Python) - AI~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/cargo-one/1d101725-bc5e-4ee4-8cc9-3d87ca1fd08d | cargo.one | Senior Backend Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/jobgether/88d09a65-ad1e-416c-bce7-4cfb3be35998 | jobgether | Jobgether - Senior Backend Engineer, AI Platform~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/jobgether/b388d22f-3400-49cd-b620-eccbc1c040f6 | jobgether | Jobgether - Quality Platform Engineer~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/bloomon/0456acf7-4fed-4ef7-b115-7bb8e94a99f8 | bloomon | Bloom & Wild Group - Platform Engineer (Mid)~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/jobgether/4e7cafd2-dadc-4a53-a3db-911175c805c6 | jobgether | Jobgether - Head of Platform Engineering~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.ashbyhq.com/linro/93545500-896c-4acf-a094-73434d96a62c | Linro | SRE / Platform Engineer (all genders) - Remote Germany~~ — posting expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/jobgether/93004924-6612-4d5e-aa73-7c4c310af7fd | jobgether | Jobgether - Software Engineer - (Connect Platform)~~ — posting expired (liveness sweep)
+- [x] [32](../reports/032-qonto-2026-11-09.md) | https://jobs.ashbyhq.com/qonto/b1d8d47e-6fef-48ab-90fe-445354f3d2cd | Qonto | Staff Software Engineer, AI Agents (Python) | 4.4/5 | PDF ✅
+- [x] [25](../reports/025-qonto-2026-11-09.md) | https://jobs.ashbyhq.com/qonto/607074df-cc9f-4f48-94e7-6f19e983ee19 | Qonto | Senior/Staff - Go Backend Engineer - remote friendly | 4.3/5 | PDF ✅
+- [x] [30](../reports/030-reedsy-2026-11-09.md) | https://jobs.ashbyhq.com/reedsy/835c9c7b-8b0a-499c-95c6-251c9aea3246 | Reedsy | Senior Software Engineer (Node/Vue/TypeScript) - Remote Europe | 3.8/5 | PDF ✅
+- [x] [27](../reports/027-duvo-2026-11-09.md) | https://jobs.ashbyhq.com/duvo/a1e5cdbc-6159-4895-8dae-cf71196550fa | Duvo Inc | AI Platform Engineer (EU/UK Based - Remote) | 3.6/5 | PDF ✅
