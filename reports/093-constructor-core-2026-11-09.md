@@ -287,3 +287,39 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Why Constructor?**
+
+> Constructor m'intéresse parce qu'il s'agit d'une plateforme de recherche et de découverte e-commerce qui traite plus d'un milliard de requêtes par jour, avec un moteur construit en interne autour de transformers et de LLMs. Travailler sur des systèmes qui alimentent la recherche, les recommandations et des agents d'achat pour des clients comme Sephora ou Under Armour, c'est un terrain à la fois exigeant et concret. J'apprécie une équipe Core qui opère les systèmes fondamentaux de la plateforme, avec une vraie culture d'ownership et d'empathie. Mon expérience chez ILLUIN m'a formé à concevoir et opérer des services backend event-driven, avec queues, retries, idempotency et backfills, ainsi qu'à garantir la fiabilité et l'observabilité en production. L'échelle et l'exigence de disponibilité décrites dans le poste correspondent à ce que j'aime : des systèmes critiques où la performance et la robustesse comptent. Le travail à distance dans une équipe distribuée et un intérêt pour l'apprentissage continu font aussi partie de ma façon de travailler.
+
+2. **Why this role?**
+
+> Le poste demande une base solide en informatique (algorithmes, structures de données, concurrence, design de systèmes), de l'expérience en systèmes backend à fort trafic et haute disponibilité, et de l'expérience dans l'exploitation d'infrastructure (automatisation de déploiement, capacity planning, observabilité). Mon expérience chez ILLUIN couvre les systèmes event-driven scalables, les APIs et la fiabilité en production, avec Kubernetes, AWS et Prometheus/Grafana, et je suis à l'aise pour travailler à différentes couches de la stack. La stack de Constructor (Rust, C++, Python) diffère de mon quotidien en TypeScript/Node.js et Python ; je maîtrise déjà Python et je suis prêt à monter en compétence sur Rust/C++. Je n'ai pas d'expérience du domaine recherche e-commerce, mais avec des bases solides en systèmes distribués, je pourrai monter rapidement.
+
+### Selections made
+
+1. **Work authorization:** Yes
+2. **Sponsorship:** No
+
+### Other field values
+
+1. **Name:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Phone:** +33750954317
+4. **Location:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Years of experience:** ~4 years professional experience
+8. **Notice period:** 90 days (3 months)
+9. **Availability:** Available subject to 90-day (3-month) notice period
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-093-constructor-core-2026-11-09.pdf

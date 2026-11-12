@@ -201,3 +201,39 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Why Spotify?**
+
+> Spotify m'intéresse parce que c'est un produit grand public à très grande échelle, où la fiabilité et la performance backend ont un impact direct sur l'expérience de millions d'utilisateurs. L'équipe sur ce rôle travaille sur l'autorisation, les permissions et la gestion d'équipes au sein de services scalables, un domaine qui touche à la sécurité et à la robustesse des systèmes. Mon expérience chez ILLUIN m'a formé à concevoir des services backend event-driven avec retries, idempotency et tables d'erreurs, ainsi qu'à travailler avec JWT et IAM/Keycloak pour les permissions. J'apprécie une entreprise mature avec une vraie culture d'ingénierie et un produit qui me touche personnellement. Le rôle basé à Toronto m'intéresse dans le cadre d'un projet d'installation au Canada, et je serais partant pour en discuter les modalités. Travailler sur des systèmes d'identité et de permissions exigeants correspond bien à mon goût pour la fiabilité et la sécurité en production.
+
+2. **Why this role?**
+
+> Le poste s'appuie sur mon expérience backend : services scalables en production (event-driven, K8s), autorisation et gestion des permissions (JWT, IAM/Keycloak), et une solide culture d'observabilité et de réponse à incident (Prometheus/Grafana). J'ai l'habitude de gérer retries, idempotency et rate limits, qui sont au cœur de services fiables à grande échelle. Je suis à l'aise dans un rôle d'ownership de bout en bout et avec le travail en équipe distribuée. La localisation à Toronto implique des questions de visa et de relocalisation, sur lesquelles je souhaite échanger avec le recruteur.
+
+### Selections made
+
+1. **Work authorization:** Ask candidate: confirm work authorization and visa sponsorship for Canada (Toronto)
+2. **Sponsorship:** Ask candidate: confirm work authorization and visa sponsorship for Canada (Toronto)
+
+### Other field values
+
+1. **Name:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Phone:** +33750954317
+4. **Location:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Years of experience:** ~4 years professional experience
+8. **Notice period:** 90 days (3 months)
+9. **Availability:** Available subject to 90-day (3-month) notice period
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-100-spotify-toronto-2026-11-09.pdf

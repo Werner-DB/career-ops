@@ -360,3 +360,45 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Supabase ?**
+
+> Supabase est la plateforme de développement Postgres construite par des développeurs pour des développeurs, et c'est un projet dont la cohérence technique me parle : base de données, auth, storage, edge functions, realtime et vector search, tous profondément intégrés. Le poste d'AI Platform Engineer est particulièrement intéressant parce qu'il s'agit de construire la couche d'exécution des systèmes IA internes — une file event-triggered, un runtime headless agnostique des modèles, un état durable, un human review gate, un rollback atomique et une traçabilité complète de chaque prompt et appel d'outil. C'est exactement à la croisée de mon expérience backend (services event-driven, idempotency, PostgreSQL en SQL brut, observabilité) et de mon intérêt pour l'IA opérationnelle (APIs génératives, serveurs MCP). J'aime aussi le caractère gouverné du problème : rendre certaines actions structurellement impossibles plutôt que simplement interdites. C'est le genre de conception qui demande de la rigueur et où je me sens à ma place.
+
+2. **Pourquoi ce poste ?**
+
+> Le socle backend demandé est solide chez moi : services TypeScript/Node, APIs (NestJS, tRPC/REST), modèles de données PostgreSQL/MySQL avec SQL brut et migrations, et systèmes event-driven avec queues, retries et idempotency, déployés sur Kubernetes et observés via Prometheus/Grafana. La logique de file, d'état durable, de retries et de rollback atomique recoupe directement ce que j'ai opéré en production. Sur la plateforme IA au sens strict — évaluation d'agents, runtime d'agents, suites de tests comportementales — mon expérience est plus limitée et davantage orientée intégration (APIs génératives, MCP, assistants de code) que conception d'une plateforme complète. C'est précisément ce que ce rôle propose de construire, en tant qu'ingénieur seul sur la plateforme, avec une autonomie d'architecture que j'apprécie.
+
+3. **Un projet open source, un side project ou une réalisation dont vous êtes particulièrement fier(e) ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé(e) à travailler en France / dans l'UE ?:** Yes
+2. **Avez-vous besoin d'un sponsor de visa ?:** No
+3. **Informations démographiques (genre, origine, statut, etc.):** Ask candidate
+4. **Déclarations légales / contractuelles:** Ask candidate
+
+### Other field values
+
+1. **Nom:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, UE)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-088-supabase-ai-platform-engineer-2026-11-09.pdf

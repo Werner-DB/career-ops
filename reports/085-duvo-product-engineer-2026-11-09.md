@@ -341,3 +341,40 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Why Duvo?**
+
+> Duvo is taking on a reality I know well: a huge amount of enterprise work still happens by hand — copy-pasting spreadsheets, endless email threads, legacy portals. Building an AI operations platform that automates business-critical processes (SAP, spreadsheets, supplier portals, email, APIs) is exactly the kind of high-impact product I want to be on. What draws me is the philosophy: the business user states the outcome, the agents plan, act, ask for approval on exceptions and get better with every run. I've done applied AI in production at ILLUIN Technology — generative-AI APIs, MCP servers, code-assistant integration — and I believe an agent is only useful if it is observable and reliable. Duvo's trajectory (60 people, 22 engineers, a $32M Series A led by Balderton) makes me want to contribute to a team that iterates fast, and remote EU/UK fits me from Paris.
+
+2. **Why this role?**
+
+> This role owns user-facing features and the systems behind them end to end, in production and measured by customer impact — which is exactly the product-fullstack role I already do: TypeScript/Node.js, NestJS and React across every layer, with a strong focus on reliability and observability (Prometheus/Grafana) and on clear API contracts (tRPC/REST). A role centered on product and AI agents also matches my applied-AI and high-volume event-driven experience (queues, retries, idempotency). And since no years quota is imposed — impact is what counts — that is precisely what drives me.
+
+### Selections made
+
+1. **Are you authorized to work in the EU?:** Yes
+2. **Will you require visa sponsorship?:** No
+3. **Are you able to work remotely within the EU/UK?:** Yes — based in Paris, Île-de-France (France, EU)
+
+### Other field values
+
+1. **Full name:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Phone:** +33750954317
+4. **Location:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Years of experience:** ~4 years professional experience
+8. **Notice period:** 90 days (3 months)
+9. **Availability:** Available subject to 90-day (3-month) notice period
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-085-duvo-product-engineer-2026-11-09.pdf

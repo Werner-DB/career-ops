@@ -333,3 +333,40 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Supabase ?**
+
+> Supabase a construit une plateforme Postgres complète pour les développeurs, et Auth est l'un des produits les plus utilisés de la stack — travailler sur la sécurité et l'identité au cœur d'un produit aussi central me motive. J'ai une expérience concrète de la sécurité applicative avec JWT, IAM et Keycloak, et je conçois la sécurité comme une propriété de bout en bout des systèmes backend en production. La gestion de base de données Postgres à grande échelle, avec des migrations sûres et des opérations fiables, correspond à ma pratique quotidienne (SQL brut, migrations, backfills, tables d'erreurs). L'engagement de Supabase envers l'open source et le soutien à la communauté via GitHub et Discord résonne avec ma façon de travailler, et la culture remote globale s'aligne avec mon fonctionnement autonome. La stack TypeScript/Node côté client et l'écosystème sont ceux que je maîtrise, ce qui me permet d'apporter de la valeur rapidement tout en apprenant le métier spécifique de l'auth.
+
+2. **Pourquoi ce poste ?**
+
+> Le poste demande de la sécurité et de l'identité en production, et je viens avec JWT, IAM/Keycloak et des systèmes backend sécurisés chez ILLUIN. La responsabilité de la performance, de la fiabilité et de la scalabilité d'un service, je l'ai portée sur des systèmes event-driven à charge (queues, retries, idempotency, observabilité Prometheus/Grafana). La maîtrise de TypeScript et de Node côté services backend est directement applicable, et je peux contribuer aux librairies clientes. Les migrations sûres sur un parc de bases Postgres font écho à mon expérience de migrations et backfills avec dry-run et plan de rollback. Point de transparence : le JD demande Go en production (4+ ans) et 2+ ans sur un système d'authentification ; je n'ai pas Go en production dans mon CV et mon expérience auth/IAM est applicative plutôt que protocolaire — je serais transparent en entretien et motivé pour approfondir OAuth/OIDC/SAML.
+
+### Selections made
+
+1. **Autorisation de travail (remote global):** Ask candidate: confirm work authorization / visa sponsorship status for the country of employment
+2. **Nécessite un sponsorship visa:** Ask candidate: confirm visa sponsorship status outside the EU
+3. **Questions démographiques / légales:** Ask candidate
+
+### Other field values
+
+1. **Nom complet:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-086-supabase-auth-2026-11-09.pdf

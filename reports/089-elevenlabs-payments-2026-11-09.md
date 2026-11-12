@@ -325,3 +325,44 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi ElevenLabs ?**
+
+> ElevenLabs est un des rares endroits où l'IA de production est réellement au centre du produit, avec des millions d'utilisateurs et des clients grand compte comme Deutsche Telekom ou Meta. Ce qui m'attire particulièrement dans cette équipe Payments, c'est l'exigence de correction sur des systèmes qui touchent directement au revenu et à l'expérience client : une erreur de metering ou de billing est immédiatement visible. C'est le type d'exigence que j'aime : des systèmes critiques, bien observés, où la fiabilité et l'idempotence ne sont pas des options. Côté stack, je suis à l'aise en TypeScript/Node et en Python (FastAPI), avec des APIs et de l'infrastructure cloud éprouvées. J'ai aussi une affinité avec la culture « AI first » décrite, puisque j'utilise déjà MCP et assistants de code au quotidien. Et le poste étant remote, il correspond bien à mon organisation depuis Paris.
+
+2. **Pourquoi ce rôle ?**
+
+> Le rôle me convient parce qu'il combine backend TypeScript/Node et systèmes critiques avec observabilité, ce qui est précisément le cœur de mon expérience. J'ai construit des systèmes événementiels en production avec queues, consumers, retries, idempotence et backfills — autant de patterns qui comptent pour du usage tracking et du billing. J'ai aussi l'habitude de diagnostiquer des incidents avec Prometheus/Grafana et de concevoir des APIs claires et stables pour des consommateurs réels. Le gap assumé est le domaine paiement/billing lui-même : je n'ai pas travaillé chez un PSP ni sur Stripe/RevenueCat, et je ne prétends pas le contraire. En revanche, l'attention portée aux systèmes qui manipulent de l'argent et à leur migration sans interruption de service m'intéresse réellement, et l'offre précise qu'aucun prérequis formel n'est exigé. La stack Python mentionnée dans l'offre est aussi une de mes bases (FastAPI).
+
+3. **Un projet open source, un side project, ou quelque chose dont vous êtes particulièrement fier ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé à travailler dans le pays/la région du poste (remote EU) ?:** Yes
+2. **Avez-vous besoin d'un sponsoring de visa ?:** No
+3. **Questions démographiques ou légales (genre, ethnicité, statut de handicap, etc.):** Ask candidate
+
+### Other field values
+
+1. **Nom complet:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-089-elevenlabs-payments-2026-11-09.pdf

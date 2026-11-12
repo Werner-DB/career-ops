@@ -267,3 +267,45 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Mistral AI ?**
+
+> Mistral construit une pile IA complète, des modèles de pointe aux outils développeurs et aux applications, et reste le champion européen du secteur. Ce qui me parle dans ce poste de Forward Software Engineer, c'est le positionnement Applied AI : résoudre les problèmes les plus difficiles, de façon concrète, pour de vrais clients, plutôt que de rester au niveau du modèle. J'ai déjà travaillé à la frontière entre backend de production et IA appliquée : APIs génératives scalables, serveurs MCP pour outiller les développeurs, assistants de code adoptés par l'équipe, dans un monorepo TypeScript en production chez ILLUIN Technology. Mistral est aussi une équipe où la culture d'ingénieur compte, avec une exigence de fondations solides plutôt que d'interfaces brillantes sur du sable — c'est exactement ma façon de construire. Contribuer à des systèmes agentiques qui fonctionnent sous charge réelle, avec des évaluations et des garde-fous sérieux, est le défi qui me motive le plus aujourd'hui.
+
+2. **Pourquoi ce poste ?**
+
+> Le poste demande de livrer full stack sur Node (Next/Express/Fastify) ou Python (FastAPI) avec TypeScript et React : c'est mon quotidien, entre NestJS/tRPC et REST côté backend, React côté interface, et Python/FastAPI pour des services en production. Il demande aussi d'avoir un vrai sens de l'ownership, de trouver le problème, de décider de l'approche et de porter le résultat — rôle que j'ai tenu comme référent technique. Mon expérience des systèmes en production apporte le socle : services event-driven avec retries, idempotency et backfills, observabilité via Prometheus/Grafana, déploiement Kubernetes/Docker et AWS. Sur la conception d'agents et les boucles d'évaluation, mes acquis (MCP, intégration LLM) sont réels mais moins profonds que ce que ce rôle vise : c'est une pente que je veux gravir, avec l'envie de rendre un agent mesurable et sûr plutôt que simplement démonstratif.
+
+3. **Un projet open source, un side project ou une réalisation dont vous êtes particulièrement fier(e) ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé(e) à travailler en France / dans l'UE ?:** Yes
+2. **Avez-vous besoin d'un sponsor de visa ?:** No
+3. **Informations démographiques (genre, origine, statut, etc.):** Ask candidate
+4. **Déclarations légales / contractuelles:** Ask candidate
+
+### Other field values
+
+1. **Nom:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, UE)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-039-mistral-ai-forward-swe-2026-11-09.pdf

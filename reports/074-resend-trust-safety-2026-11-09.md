@@ -323,3 +323,45 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Resend ?**
+
+> Resend a bâti une infrastructure e-mail que plus de quatre millions de développeurs utilisent, avec une attention rare à la fiabilité et à l'expérience de ceux qui construisent dessus. L'équipe Trust & Safety est au cœur de cette promesse : garder la plateforme ouverte aux bons expéditeurs et fermée aux mauvais acteurs, avec une application en temps réel sur chaque e-mail. Ce qui me motive, c'est justement le côté "détection dans un budget de latence de quelques millisecondes", les pipelines signal → décision → action, et la boucle de feedback qui rend chaque blocage traçable et mesurable. J'ai construit des services event-driven fiables en production chez ILLUIN Technology — queues, retries, idempotency, backfills, observabilité — et travaillé sur la sécurité applicative avec JWT et une IAM Keycloak. Rejoindre une équipe qui traite un faux positif comme un bug est exactement la culture d'ingénieur dans laquelle je travaille bien.
+
+2. **Pourquoi ce poste ?**
+
+> Les axes sur lesquels je suis solide recoupent largement le poste : backend sécurité et abus, avec de la sécurité applicative (JWT, IAM/Keycloak) et une expérience réelle de systèmes event-driven avec queues, retries, idempotency et services stateful ; et la fiabilité/observabilité, puisque j'ai diagnostiqué et réglé des incidents en production avec Prometheus/Grafana et des métriques. Le JD correspond aussi à mon stack principal, Node.js/TypeScript, avec PostgreSQL et MySQL en SQL brut. Je suis honnête sur deux points : je compte environ quatre ans d'expérience professionnelle, sous le seuil de cinq ans demandé, et mon expérience anti-abus au sens strict (règles de détection, classification ML) reste à construire. Ce sont les domaines que je veux approfondir, et ce poste les met précisément au centre.
+
+3. **Un projet open source, un side project ou une réalisation dont vous êtes particulièrement fier(e) ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé(e) à travailler en France / dans l'UE ?:** Yes
+2. **Avez-vous besoin d'un sponsor de visa ?:** No
+3. **Informations démographiques (genre, origine, statut, etc.):** Ask candidate
+4. **Déclarations légales / contractuelles:** Ask candidate
+
+### Other field values
+
+1. **Nom:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, UE)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-074-resend-trust-safety-2026-11-09.pdf

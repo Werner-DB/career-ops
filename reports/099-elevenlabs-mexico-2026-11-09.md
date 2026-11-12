@@ -297,3 +297,40 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi ElevenLabs ?**
+
+> ElevenLabs a lancé le premier modèle vocal IA à la voix humaine en janvier 2023 et sert aujourd'hui des millions d'utilisateurs et des entreprises comme Meta ou Deutsche Telekom, ce qui en fait l'un des acteurs les plus importants de l'IA appliquée. J'ai une expérience concrète d'intégration de LLM et d'outils IA dans le développement (assistants de code, serveurs MCP pour GitLab et Figma), et le rôle de Forward Deployed Engineer demande de mettre cette expérience au service de clients stratégiques. J'aime travailler au contact des systèmes en production et assumer la fiabilité de bout en bout : retries, idempotency, rate limits et observabilité Prometheus/Grafana font partie de mon quotidien chez ILLUIN Technology. La culture AI-first, high-velocity et « impact plutôt que titres » correspond à la façon dont je veux travailler, et la stack TypeScript/Node côté intégrations est celle que je maîtrise. Ce rôle demande de concevoir des architectures et des intégrations sur mesure pour des clients exigeants, ce qui prolonge mon expérience de conception d'APIs et de features end-to-end.
+
+2. **Pourquoi ce poste ?**
+
+> Le rôle demande une exécution end-to-end de projets majeurs pour des partenaires stratégiques, en travaillant main dans la main avec les équipes techniques et exécutives des clients : mon expérience de référent technique, de conception d'APIs (NestJS, tRPC/REST) et de livraison de bout en bout est directement transposable. La maîtrise de TypeScript/Node et de l'intégration d'APIs correspond à la stack des intégrations ElevenLabs. La culture AI-first et l'usage d'outils IA au quotidien rejoignent mon travail sur les serveurs MCP et l'intégration de LLM. Le JD demande de la transparence sur des points précis : le rôle est basé au Mexique (préférence Mexico City) avec un besoin de fluidité en anglais et en espagnol et une compréhension des nuances régionales ; j'ai un espagnol basique et je réside à Paris — deux points à clarifier avant de postuler.
+
+### Selections made
+
+1. **Autorisation de travail (Mexique — rôle basé au Mexique):** Ask candidate: confirm work authorization / visa sponsorship status for Mexico
+2. **Nécessite un sponsorship visa:** Ask candidate: confirm visa sponsorship status for Mexico
+3. **Questions démographiques / légales:** Ask candidate
+
+### Other field values
+
+1. **Nom complet:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-099-elevenlabs-mexico-2026-11-09.pdf

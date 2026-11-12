@@ -351,3 +351,44 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Supabase ?**
+
+> Supabase m'intéresse parce que c'est un produit construit par et pour des développeurs, et parce que le rôle touche à l'infrastructure qui rend l'outillage IA fiable en production — le serveur MCP en est un bon exemple. J'ai une vraie affinité avec ce sujet : j'utilise déjà des serveurs MCP (GitLab, Figma) et l'intégration d'assistants de code dans mon travail quotidien, et je comprends à quel point le trafic d'agents (retries, volumes élevés, clients qui ignorent les dépréciations) exige une conception différente. Côté backend, j'ai construit et opéré des services TypeScript/Node en production, avec des systèmes événementiels robustes (queues, consumers, retries, idempotence, backfills). Je suis à l'aise avec PostgreSQL et les bases relationnelles, avec Docker/Kubernetes et avec l'observabilité via Prometheus/Grafana. Le poste est fully remote et l'équipe distribue sa responsabilité d'on-call à ses membres, ce qui correspond à mon envie d'ownership réel. Je vois aussi un bel alignement avec l'approche open source de Supabase.
+
+2. **Pourquoi ce rôle ?**
+
+> Le rôle combine deux choses que je connais bien : backend TypeScript/Node et outillage IA/LLM. J'ai construit des services backend en production, des APIs versionnées avec gestion d'erreurs et rate limiting, et des systèmes événementiels où l'idempotence et les retries sont non négociables. Je travaille régulièrement avec MCP et des assistants de code, ce qui donne un point de départ concret pour opérer une MCP server et les services d'agent skills. Je connais aussi l'authentification et l'autorisation via JWT et Keycloak IAM, ce qui recoupe directement la partie OAuth/scopes/permissions du JD. Le gap assumé est le compteur d'années (j'ai ~4 ans, le JD demande 5+) et une expérience d'on-call formelle : je l'ai vécue de fait via la fiabilité en production et les incidents, mais je ne l'ai pas portée dans un cadre structuré d'astreinte. Je suis en revanche très à l'aise avec l'idée de l'adopter.
+
+3. **Un projet open source, un side project, ou quelque chose dont vous êtes particulièrement fier ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé à travailler dans le pays du poste (remote global) ?:** Yes
+2. **Avez-vous besoin d'un sponsoring de visa ?:** Ask candidate: confirm whether the hiring entity requires visa sponsorship outside the EU
+3. **Questions démographiques ou légales (genre, ethnicité, statut de handicap, etc.):** Ask candidate
+
+### Other field values
+
+1. **Nom complet:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-075-supabase-ai-tooling-infra-2026-11-09.pdf

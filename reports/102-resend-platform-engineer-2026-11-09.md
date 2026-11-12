@@ -290,3 +290,44 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Resend ?**
+
+> Resend m'intéresse parce que c'est une infrastructure que des millions de développeurs utilisent pour une tâche critique et souvent sous-estimée : envoyer des emails de façon fiable. La Platform Squad, qui rend cette infrastructure opérable et sûre pour les équipes produit, correspond à un type de travail que je pratique : fiabilité, observabilité, systèmes distribués, et outillage qui aide les autres ingénieurs à avancer. J'ai travaillé sur des systèmes en production avec queues, workers, retries et idempotence, ainsi que sur AWS (S3, RDS) et l'observabilité avec Prometheus/Grafana. L'idée d'industrialiser des patterns et de rendre l'infrastructure self-service me parle. Le poste est remote dans un fuseau européen, ce qui me convient depuis Paris. En revanche, je dois être transparent : je n'ai pas 8+ ans d'expérience en infra/platform, ce qui est explicitement demandé, ni d'expérience d'IaC formalisée (CDK/Terraform/Pulumi), et je ne veux pas laisser croire le contraire.
+
+2. **Pourquoi ce rôle ?**
+
+> Ce qui m'attire, ce sont les fondations techniques du rôle : systèmes distribués, AWS, observabilité, et la responsabilité de rendre une plateforme plus fiable pour les autres équipes. Je connais bien les systèmes événementiels — queues, consumers, retries, idempotence, tables d'erreurs — et je les ai opérés avec un vrai souci de la fiabilité en production. J'ai également l'habitude d'aller au bout d'un incident avec Prometheus/Grafana pour réduire le temps de rétablissement. Le gap est assumé : le JD demande 8+ ans d'expérience infra/platform/SRE et une expérience d'IaC, alors que j'ai environ 4 ans et pas d'IaC formalisée, ce qui me place en dehors du seuil. Je postule en connaissant cet écart. Si ce rôle n'est pas le bon, je serais aussi intéressé par des rôles backend plus proches de ma zone de force.
+
+3. **Un projet open source, un side project, ou quelque chose dont vous êtes particulièrement fier ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé à travailler dans le pays/la région du poste (remote Americas/Europe) ?:** Yes
+2. **Avez-vous besoin d'un sponsoring de visa ?:** No
+3. **Questions démographiques ou légales (genre, ethnicité, statut de handicap, etc.):** Ask candidate
+
+### Other field values
+
+1. **Nom complet:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** Ask candidate: tailored CV not found in output/ for this report (PDF: ❌)

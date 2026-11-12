@@ -309,3 +309,44 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Constructor ?**
+
+> Constructor m'intéresse parce qu'elle applique l'IA à un problème concret du commerce en ligne — la recherche et la découverte de produits — avec une architecture basée sur GPT pensée spécifiquement pour le e-commerce, au service de marques comme Sephora, Petco ou Under Armour. Le poste sur la Prospect Data Solutions me parle : intégrer les données de prospects, faire de l'ETL et des intégrations front-end, valider la qualité des données pour que les modèles IA donnent de bons résultats. Mon expérience chez ILLUIN Technology sur des systèmes event-driven (queues, retries, idempotency, backfills) et des APIs cœur en NestJS/tRPC, avec du SQL complexe et des migrations, correspond à ce travail exigeant et rigoureux. J'aime la collaboration avec les data analysts, les AE et le produit pour faire aboutir réellement des démos et des deals.
+
+2. **Pourquoi ce poste ?**
+
+> Ce poste de FullStack Engineer correspond à mon profil : TypeScript/Node.js côté backend et React côté front, avec une vraie expérience des données (PostgreSQL/MySQL, SQL brut, migrations, backfills). J'ai une solide culture des pipelines et des systèmes event-driven fiables, ainsi que des APIs scalables et de l'observabilité (Prometheus/Grafana). J'utilise l'IA comme outil pour accélérer mon travail tout en restant comptable de la qualité, et j'aime le travail en équipe avec pair programming et code reviews.
+
+3. **Un projet open source, un side project ou une réalisation dont vous êtes fier ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé(e) à travailler dans l'UE / en France ?:** Yes
+2. **Avez-vous besoin d'un sponsor de visa ?:** No
+3. **Candidature via un statut démographique/EEO:** Ask candidate
+
+### Other field values
+
+1. **Name:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Phone:** +33750954317
+4. **Location:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Years of experience:** ~4
+8. **Notice period:** 90 days (3 months)
+9. **Availability:** Available subject to 90-day (3-month) notice period
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-096-constructor-prospect-data-2026-11-09.pdf

@@ -416,3 +416,44 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi n8n ?**
+
+> n8n m'attire parce qu'elle est au cœur de l'orchestration de workflows pour l'ère de l'IA : une plateforme open source utilisée par plus de 650 000 développeurs, avec une communauté très active et une ambition claire de faire du développement agentique une pratique de référence. Le défi de l'initiative ACDC — faire travailler humains et agents comme un système unique qui apprend en continu — est exactement le genre de problème qui me motive. Chez ILLUIN Technology, j'ai intégré des assistants de code IA et des serveurs MCP (GitLab, Figma) dans le quotidien des développeurs, avec une culture forte de la fiabilité et de l'observabilité. J'aime construire des premières versions concrètes, rester hands-on, puis faire grandir la pratique au-delà d'une personne.
+
+2. **Pourquoi ce poste ?**
+
+> Ce poste Staff Platform Engineer, Agentic Engineering, correspond à mon expérience de l'outillage IA et de la plateforme : serveurs MCP, assistants de code agentiques en production, observabilité (Prometheus/Grafana) et systèmes event-driven fiables. J'ai une vraie pratique du backend TypeScript/Node.js et des pipelines CI/CD (GitLab), et je pense en termes de fiabilité, sécurité et workflows développeurs. Je suis hands-on et j'aime transformer des expérimentations prometteuses en pratiques reproductibles pour toute une organisation.
+
+3. **Un projet open source, un side project ou une réalisation dont vous êtes fier ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé(e) à travailler dans l'UE / en France ?:** Yes
+2. **Avez-vous besoin d'un sponsor de visa ?:** No
+3. **Candidature via un statut démographique/EEO:** Ask candidate
+
+### Other field values
+
+1. **Name:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Phone:** +33750954317
+4. **Location:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Years of experience:** ~4
+8. **Notice period:** 90 days (3 months)
+9. **Availability:** Available subject to 90-day (3-month) notice period
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-082-n8n-staff-platform-2026-11-09.pdf

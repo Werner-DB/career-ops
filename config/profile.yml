@@ -47,7 +47,9 @@ target_roles:
     - { name: "Senior Fullstack Engineer", level: "Senior", fit: primary }
     - { name: "Backend Engineer — AI/LLM & Data", level: "Senior", fit: secondary }
     - { name: "Platform / DevEx Engineer", level: "Senior", fit: secondary }
-    - { name: "Tech Lead / Lead Engineer", level: "Senior", fit: stretch }
+    # Only a stretch in low-tech-maturity companies. In a mature tech org a
+    # management/lead role is beyond current experience — treat as not targeted.
+    - { name: "Tech Lead / Lead Engineer", level: "Senior", fit: stretch, caveat: "Only in low-tech-maturity companies; not targeted in mature tech orgs" }
 
 narrative:
   # Your professional headline (1 line)
@@ -296,7 +298,7 @@ cover_letter:
   # Your notice period in calendar days. Surfaced as a prompt default when the
   # JD requests an immediate start. The user confirms the actual value before it
   # appears in the letter.
-  notice_period_days: 30
+  notice_period_days: 90
   # Which cover-letter template to use by default. Kebab-case name of a file in
   # templates/ named cover-letter-template.<name>.html. Unset -> built-in
   # templates/cover-letter-template.html.

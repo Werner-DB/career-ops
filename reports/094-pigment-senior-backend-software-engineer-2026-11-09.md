@@ -220,3 +220,45 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Pigment ?**
+
+> Pigment est devenu en quelques années une plateforme de planning et de performance management de référence, avec plus de 100 M$ d'ARR et une croissance impressionnante, utilisée par des entreprises comme Unilever, Uber, Anthropic ou Siemens. Ce qui m'attire, c'est la nature du produit : une SaaS où des données temps réel, des plans et des scénarios doivent rester cohérents et fiables pour des équipes de finance et de RH, avec de l'IA qui travaille aux côtés de chaque équipe. C'est un terrain où la qualité du backend se ressent directement dans la confiance des utilisateurs. Mon expérience chez ILLUIN Technology, sur des services event-driven à charge, des APIs cœur de produit, PostgreSQL et une observabilité sérieuse, correspond à ce type de plateforme. Rejoindre une équipe internationale à Paris sur un produit qui touche à la décision stratégique est exactement le cadre dans lequel je veux contribuer.
+
+2. **Pourquoi ce poste ?**
+
+> Le rôle de Senior Backend Software Engineer repose sur ce que je fais le mieux : concevoir et opérer des backends produits à grande échelle, avec des APIs fiables, des modèles de données solides et une vraie culture d'incident. Chez ILLUIN Technology, j'ai construit des services event-driven (queues, consumers, retries, idempotency, backfills), travaillé PostgreSQL et MySQL en SQL brut, et diagnostiqué des incidents production avec Prometheus/Grafana. Le poste ne fixe pas de quota d'années et parle de données temps réel et de fiabilité : c'est le cœur de mon métier. J'assume en revanche une part d'inconnu sur la stack exacte côté plateforme (par exemple C# ou Go) : mon socle principal est TypeScript/Node, avec du Java Spring Boot et du Python/FastAPI, et je suis à l'aise pour apprendre un langage supplémentaire quand le produit le demande.
+
+3. **Un projet open source, un side project ou une réalisation dont vous êtes particulièrement fier(e) ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé(e) à travailler en France / dans l'UE ?:** Yes
+2. **Avez-vous besoin d'un sponsor de visa ?:** No
+3. **Informations démographiques (genre, origine, statut, etc.):** Ask candidate
+4. **Déclarations légales / contractuelles:** Ask candidate
+
+### Other field values
+
+1. **Nom:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, UE)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-094-pigment-senior-backend-software-engineer-2026-11-09.pdf

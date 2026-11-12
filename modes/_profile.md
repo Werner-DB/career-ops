@@ -25,6 +25,18 @@ platform / developer-experience work.
 | **Platform / DevEx Engineer** | Developer tooling, CI/CD, monorepo, observability | Someone who makes the team and its systems faster and safer |
 | **Tech Lead / Lead Engineer** | Architecture ownership, code review, mentoring, incident resolution | Someone who raises the technical bar of the team |
 
+**Seniority boundary — read before scoring:** do NOT target Tech Lead / Lead
+Engineer or people-management (Engineering Manager) roles in mature tech
+organizations. I am not yet experienced enough for hands-on people management or
+formal team leadership at a mature tech company. The Tech Lead archetype is a
+stretch only in a company with limited tech culture (small informal teams, no
+structured engineering org). In a mature tech org (documented engineering
+practices, several manager layers, structured interview process), a Tech Lead or
+Engineering Manager opening is effectively **not a target**: name the closest
+real archetype and score North Star low, and surface the people-management /
+leadership scope as the main gap. Hands-on technical *influence* (mentoring,
+code reviews, incident resolution) as a Senior IC is fine; heading a team is not.
+
 ## Your Adaptive Framing
 
 | If the role is... | Emphasize about you... | Proof point sources |

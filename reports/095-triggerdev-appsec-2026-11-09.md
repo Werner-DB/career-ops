@@ -307,3 +307,44 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Trigger.dev ?**
+
+> Trigger.dev m'intéresse parce qu'il se situe à l'intersection de deux sujets que je connais bien en production : la fiabilité de systèmes qui exécutent beaucoup d'événements, et la sécurité de ces systèmes. J'ai construit des pipelines événementiels avec queues, consumers, retries, idempotence et backfills, et j'ai appris que la robustesse se joue dans les détails — y compris sur les erreurs et la reprise. La partie sécurité me parle directement : j'ai travaillé sur l'authentification et l'autorisation via JWT et Keycloak IAM, et sur la fiabilité de systèmes multi-tenant qui servent plusieurs clients sur la même infrastructure. L'idée que du code utilisateur doive rester contenu et ne jamais atteindre les systèmes internes ni ceux des autres clients est un vrai enjeu produit, pas seulement de la conformité. Enfin, la culture décrite — remote EU/UK, équipe restreinte, on-call partagé, open source — correspond à l'environnement dans lequel je travaille le mieux.
+
+2. **Pourquoi ce rôle ?**
+
+> Ce rôle demande un senior backend qui apporte une mentalité sécurité à tout ce qu'il livre, et c'est exactement la posture que j'ai développée : j'ai conçu et opéré des APIs backend en TypeScript/Node avec authentification/autorisation via JWT et Keycloak, et j'ai travaillé sur des systèmes multi-tenant en production. Côté opérations, j'ai géré des systèmes conteneurisés (Kubernetes/Docker), de l'observabilité avec Prometheus/Grafana et la résolution d'incidents, ce qui recoupe la partie cloud operations et detection/response. J'utilise au quotidien des outils d'IA (MCP, assistants de code) et je les vois comme des accélérateurs pour du testing et de la revue automatisés. Le gap honnête est clair : je n'ai pas de certification ni d'expérience professionnelle dédiée à l'AppSec (pentest, bug bounty, CTF formels), et je ne prétends pas le contraire. Ce que j'apporte, c'est une base backend solide avec une vraie sensibilité sécurité, et l'envie d'aller plus loin dans cette spécialité.
+
+3. **Un projet open source, un side project, ou quelque chose dont vous êtes particulièrement fier ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé à travailler dans le pays/la région du poste (remote EU/UK) ?:** Yes
+2. **Avez-vous besoin d'un sponsoring de visa ?:** No
+3. **Questions démographiques ou légales (genre, ethnicité, statut de handicap, etc.):** Ask candidate
+
+### Other field values
+
+1. **Nom complet:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** Ask candidate: tailored CV not found in output/ for this report (PDF: ❌)

@@ -252,3 +252,44 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Mistral AI ?**
+
+> Mistral est un des rares endroits où l'on construit à la fois les modèles et les systèmes qui les rendent utilisables en production, et c'est précisément l'interface entre les deux qui m'intéresse. J'ai travaillé sur des produits où l'intégration d'IA et de serveurs MCP fait partie du quotidien (GitLab, Figma, assistants de code), donc l'idée de livrer des systèmes GenAI de bout en bout me parle concrètement. Le rôle de Forward Software Engineer correspond à ma façon de travailler : partir d'un prototype, le mettre en production, puis transformer ce qui fonctionne pour un client en motif réutilisable. Ma base est full-stack TypeScript/Node et React, avec des APIs NestJS/tRPC et FastAPI côté Python, ce qui couvre la partie « ship across the stack » décrite dans l'offre. Le poste est à Paris, ce qui correspond à ma situation, et l'équipe Applied AI me semble l'endroit où mon expérience produit et backend peut être utile vite.
+
+2. **Pourquoi ce rôle ?**
+
+> Ce qui me convient dans ce rôle, c'est l'exigence d'ingénierie système appliquée à la donnée : modéliser, faire tenir en charge, garder de la visibilité. Sur mon expérience passée, j'ai conçu des modèles de données événementiels robustes (queues, consumers, retries, idempotence) et mené des migrations et backfills de données volumineuses en production avec dry-run et tables d'erreurs, en PostgreSQL et MySQL. J'ai aussi construit des APIs consommées par d'autres équipes et services, avec documentation et contrat clair. Côté IA, j'ai intégré des serveurs MCP et des assistants de code dans mon flux de travail, ce qui me donne une bonne intuition de ce qu'est un système GenAI en production. Le gap assumé est clair : je n'ai pas encore construit de pipelines distribués avec Spark/Ray/Airflow à cette échelle, et je préfère le dire plutôt que de le suggérer. Je suis en revanche à l'aise avec l'idée de monter sur ces outils, et l'autonomie et l'ownership décrits dans l'offre me correspondent.
+
+3. **Un projet open source, un side project, ou quelque chose dont vous êtes particulièrement fier ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé à travailler dans le pays du poste ?:** Yes
+2. **Avez-vous besoin d'un sponsoring de visa ?:** No
+3. **Questions démographiques ou légales (genre, ethnicité, statut de handicap, etc.):** Ask candidate
+
+### Other field values
+
+1. **Nom complet:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-040-mistral-ai-forward-swe-data-2026-11-09.pdf

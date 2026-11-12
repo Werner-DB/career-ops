@@ -297,3 +297,40 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Why Resend? / Pourquoi Resend ?**
+
+> Resend est utilisé par plus de 4 millions de développeurs, et construire des outils qui rendent l'email meilleur pour les développeurs — des infrastructures fiables, un design soigné, une attention à l'expérience de celles et ceux qui construisent avec les produits — est un problème qui me parle. Ce qui m'attire dans l'équipe DevTools, c'est de travailler sur les SDK, React Email, la CLI, MCP et les intégrations, aux côtés des services backend qui les supportent : c'est précisément l'intersection entre outillage développeur et backend de production que je connais. J'ai travaillé sur des contrats d'API typés (tRPC/REST) et sur des intégrations IA via des serveurs MCP (GitLab, Figma), et je m'intéresse à tout ce qui rend une API agréable et fiable à consommer. La culture d'infrastructure fiable et l'attention au design de Resend correspondent à la façon dont j'aborde les outils développeur. Le poste en remote Europe me convient depuis Paris.
+
+2. **Why this role? / Pourquoi ce poste de Software Engineer, Developer Tools ?**
+
+> Le poste demande une solide expérience backend (APIs et services en production), une expertise TypeScript/Node.js, et une compréhension de l'authentification, de l'autorisation, des retries, de l'idempotency, des rate limits et des échecs partiels — des sujets que je traite en production chez ILLUIN Technology. J'ai conçu des systèmes event-driven avec retries, idempotency et backfills, et je gère l'authentification via JWT/Keycloak IAM. La dimension outillage développeur (SDK, CLI, MCP, intégrations) recoupe mon expérience d'intégration de serveurs MCP et d'outillage CLI ; je n'ai pas encore publié de SDK public, ce qui est un axe sur lequel je progresserai, mais mon expérience des contrats d'API typés et de la fiabilité des intégrations me met sur une bonne trajectoire. Enfin, travailler directement avec les développeurs via le support, les issues GitHub et les pull requests me motive.
+
+### Selections made
+
+1. **Are you authorized to work in the EU?:** Yes
+2. **Will you require visa sponsorship?:** No
+3. **Are you able to work remotely in the European timezone?:** Yes — based in Paris, Île-de-France (France, EU)
+
+### Other field values
+
+1. **Full name:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Phone:** +33750954317
+4. **Location:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Years of experience:** ~4 years professional experience
+8. **Notice period:** 90 days (3 months)
+9. **Availability:** Available subject to 90-day (3-month) notice period
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-097-resend-developer-tools-2026-11-09.pdf

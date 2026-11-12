@@ -279,3 +279,40 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Why ElevenLabs? / Pourquoi ElevenLabs ?**
+
+> ElevenLabs a transformé la façon dont on interagit avec la technologie en lançant en janvier 2023 le premier modèle vocal IA d'apparence humaine, et passer de modèle à plateforme — ElevenAgents, ElevenCreative, ElevenAPI — est une trajectoire ambitieuse qui m'attire. Le rôle Full-Stack sur l'Ads Engine en particulier me parle : construire un moteur publicitaire à grande échelle, c'est un problème de backend distribué où la fiabilité, la latence et la gestion de gros volumes de données sont centrales. J'ai l'expérience de systèmes event-driven à haute charge (queues, consumers, retries, idempotency) et d'observabilité (Prometheus/Grafana) acquise en production chez ILLUIN Technology, avec du SQL brut et des migrations à grande échelle. La culture de haute vélocité, d'« impact not job titles » et d'AI-first résonne avec ma façon de travailler, et le positionnement global remote me convient depuis Paris.
+
+2. **Why this role? / Pourquoi ce poste de Full-Stack Engineer, Ads Engine ?**
+
+> Le poste demande un backend TypeScript/Node solide, capable de traiter de l'analytics et des données à grande échelle, avec une exposition fullstack. Mon expérience en TypeScript/Node.js et l'outillage backend (NestJS, tRPC/REST), combinée à mon travail sur des données à volume (systèmes event-driven, backfills, PostgreSQL en SQL brut) me donne les fondations pour ce moteur publicitaire. Je gère déjà en production la fiabilité et l'observabilité de systèmes à forte charge et je sais diagnostiquer et corriger les incidents. Le domaine pub/marketing est nouveau pour moi — je ne revendique pas d'expérience directe en ads — mais le cœur du problème est du backend de données à l'échelle, ce que je pratique. Je suis aussi à l'aise avec l'idée d'être polyvalent fullstack quand le produit l'exige.
+
+### Selections made
+
+1. **Are you authorized to work in the EU?:** Yes
+2. **Will you require visa sponsorship?:** No
+3. **Are you able to work remotely (global team)?:** Yes — based in Paris, Île-de-France (France, EU)
+
+### Other field values
+
+1. **Full name:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Phone:** +33750954317
+4. **Location:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Years of experience:** ~4 years professional experience
+8. **Notice period:** 90 days (3 months)
+9. **Availability:** Available subject to 90-day (3-month) notice period
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-091-elevenlabs-ads-engine-2026-11-09.pdf

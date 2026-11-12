@@ -321,3 +321,40 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Constructor ?**
+
+> Constructor a construit un moteur de recherche et de découverte e-commerce entièrement en interne, optimisé pour des métriques réelles (revenu, conversion, profit) et servant plus d'un milliard de requêtes par jour — un niveau d'échelle et d'exigence sur les données qui me motive. L'équipe Experiments (allocation de trafic, logging d'exposition, calcul de métriques) construit des systèmes data-heavy dont la correctness et l'observabilité sont centrales, ce qui rejoint ma manière de travailler sur des backends de production. Chez ILLUIN Technology, j'ai conçu et maintenu des services event-driven avec queues, retries, idempotency et observabilité Prometheus/Grafana, une base solide pour des pipelines d'exposition et d'attribution. La stack Python/FastAPI et PostgreSQL correspond à mon expérience, et je sais livrer des APIs et features produit de bout en bout. L'accent mis sur les métriques qui comptent, l'empathie et l'amélioration continue est en phase avec ma culture d'ingénierie.
+
+2. **Pourquoi ce poste ?**
+
+> Ce rôle demande de posséder des services backend de production en Python, et je travaille avec Python/FastAPI en complément du TypeScript/Node pour des APIs et de la logique de services chez ILLUIN. Les compétences SQL fortes et l'aisance sur des systèmes data-heavy font écho à mon usage quotidien de PostgreSQL (SQL brut, migrations) et à ma gestion de volumes d'événements. Le monitoring, l'alerting et le debug de systèmes user-facing correspondent à mon expérience Prometheus/Grafana et de diagnostic d'incidents. La capacité à prendre l'ownership d'un problème ambigu et à le transformer en plan exécutable est ce que je fais en tant que référent technique. Point de transparence : l'expérimentation/A-B testing et PySpark ne sont pas dans mon expérience directe — le JD indique explicitement ne pas attendre d'expertise préalable, et ma base backend et data me permettrait de monter en compétence rapidement.
+
+### Selections made
+
+1. **Autorisation de travail (remote EMEA, UTC+1 à UTC+7):** Yes
+2. **Nécessite un sponsorship visa:** No
+3. **Questions démographiques / légales:** Ask candidate
+
+### Other field values
+
+1. **Nom complet:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-092-constructor-experiments-2026-11-09.pdf

@@ -292,3 +292,44 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi ElevenLabs ?**
+
+> ElevenLabs m'attire parce qu'elle construit des agents IA qui deviennent un moyen de création à part entière : transformer des idées en audio, image et vidéo de haute qualité sans exiger des utilisateurs qu'ils deviennent experts du prompting. Le périmètre Creative Agents, de l'infrastructure backend à l'expérience client, correspond exactement à ce que j'aime : concevoir des systèmes agentiques fiables et les faire évoluer à partir de retours clients réels. Chez ILLUIN Technology, j'ai intégré des assistants de code IA et des serveurs MCP (GitLab, Figma) en production, et j'ai une solide expérience des systèmes event-driven (queues, retries, idempotency) et du backend TypeScript/Node.js. J'aime les équipes resserrées, autonomes et exigeantes, où l'on passe vite de l'expérimentation à des fonctionnalités fiables.
+
+2. **Pourquoi ce poste ?**
+
+> Ce poste de Full-Stack Engineer (backend-leaning) sur les Creative Agents combine deux de mes forces : le backend TypeScript/Node.js (NestJS, tRPC/REST) et l'orchestration d'agents IA en production. J'ai une vraie pratique de l'infrastructure agentique (MCP, outils de codage agentiques), des APIs scalables et de l'observabilité (Prometheus/Grafana) pour garder des systèmes fiables. Je suis à l'aise de bout en bout, du backend à l'expérience client, avec une solide culture du CI/CD et des tests.
+
+3. **Un projet open source, un side project ou une réalisation dont vous êtes fier ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé(e) à travailler dans l'UE / en France ?:** Yes
+2. **Avez-vous besoin d'un sponsor de visa ?:** No
+3. **Candidature via un statut démographique/EEO:** Ask candidate
+
+### Other field values
+
+1. **Name:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Phone:** +33750954317
+4. **Location:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Years of experience:** ~4
+8. **Notice period:** 90 days (3 months)
+9. **Availability:** Available subject to 90-day (3-month) notice period
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-090-elevenlabs-creative-agents-2026-11-09.pdf

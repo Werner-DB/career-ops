@@ -327,3 +327,45 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Pourquoi Cohere ?**
+
+> Cohere est l'un des acteurs majeurs de l'IA d'entreprise, et Model Vault — sa plateforme d'inférence pour déployer et opérer des modèles de façon sécurisée à l'échelle entreprise — est le genre de système backend qui m'intéresse profondément : identité, déploiements, metering, billing, sécurité, isolation des tenants et confidential computing. Ce sont des problèmes où les schémas SaaS classiques ne suffisent pas, et où la fiabilité, la sécurité et la correction comptent autant que la performance. Chez ILLUIN Technology, j'ai travaillé sur des systèmes de production à grande échelle, des services event-driven avec idempotency et recovery, et la sécurité applicative via JWT et une IAM Keycloak. J'aime l'idée de construire des control-planes fiables qui permettent à d'autres équipes de déployer des modèles en toute confiance. Cohere est aussi présent à Paris, ce qui compte pour moi.
+
+2. **Pourquoi ce poste ?**
+
+> Les exigences du poste recoupent fortement mon expérience : systèmes de production à grande échelle (services event-driven, Kubernetes, observabilité Prometheus/Grafana), auth/authorization, isolation des tenants et gestion des secrets via JWT et Keycloak, et APIs avec des garanties fortes de correction, cohérence et idempotency. La conception de systèmes distribués et le côté bout-en-bout — architecture, threat modeling, implémentation, opération — correspondent à ma façon de travailler comme référent technique. Je suis transparent sur trois points : le niveau Senior/Staff demandé est au-dessus de mes ~4 ans d'expérience ; je n'ai pas encore de Go en production (mon socle est Python/Java/TypeScript) ; et la question de la localisation au Canada n'est pas tranchée de mon côté. Je suis motivé par la profondeur technique du rôle et prêt à en discuter.
+
+3. **Un projet open source, un side project ou une réalisation dont vous êtes particulièrement fier(e) ?**
+
+> Ask candidate: provide your personal anecdote — cannot be invented.
+
+### Selections made
+
+1. **Êtes-vous autorisé(e) à travailler au Canada ?:** Ask candidate: confirm work authorization / visa sponsorship status for Canada
+2. **Avez-vous besoin d'un sponsor de visa ?:** Ask candidate: confirm work authorization / visa sponsorship status for Canada
+3. **Informations démographiques (genre, origine, statut, etc.):** Ask candidate
+4. **Déclarations légales / contractuelles:** Ask candidate
+
+### Other field values
+
+1. **Nom:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Téléphone:** +33750954317
+4. **Localisation:** Paris, Île-de-France (France, UE)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Années d'expérience:** ~4 ans
+8. **Préavis:** 90 jours (3 mois)
+9. **Disponibilité:** Sous 90 jours (préavis, 3 mois)
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-101-cohere-inference-2026-11-09.pdf

@@ -318,3 +318,39 @@ risk_summary:
   candidate_fees: "not_evaluated"
   accommodation_notice: "no_match"
 ```
+
+## Application Answers
+
+**Date:** 2026-11-09
+**State:** filled
+
+### Free-text answers
+
+1. **Why Supabase?**
+
+> Supabase m'intéresse parce que c'est une plateforme Postgres construite par et pour les développeurs, avec une approche intégrée (Database, Auth, Storage, Edge Functions, Realtime, Vector Search). Le rôle porte sur une plateforme d'exécution CI/CD à haute performance, un domaine qui touche de près ce que j'aime : les systèmes distribués, l'orchestration de calcul éphémère et la fiabilité à grande échelle. J'apprécie une équipe entièrement distribuée et asynchrone, où l'on travaille en autonomie avec des objectifs clairs. Mon expérience chez ILLUIN m'a formé à opérer des systèmes event-driven et des services backend en TypeScript/Node.js sur AWS et Kubernetes, avec de vraies exigences de fiabilité, d'observabilité et de gestion des retries/timeouts. Concevoir des outils pour développeurs qui scalent à des millions de pipelines est un défi motivant, qui prolonge mon intérêt pour l'outillage et l'automatisation. J'utilise déjà des outils de CI/CD (GitHub Actions, GitLab CI) au quotidien, ce qui me donne une bonne compréhension des besoins des utilisateurs de la plateforme.
+
+2. **Why this role?**
+
+> Le poste correspond à mon expérience de 3+ ans en cloud infrastructure et systèmes distribués : Kubernetes, AWS, services backend et opérations en production. J'ai l'habitude de gérer retry, timeout, idempotency et propagation d'erreurs, ainsi que d'instrumenter des systèmes pour l'observabilité (Prometheus/Grafana, logs structurés). J'utilise TypeScript au quotidien ; je n'ai pas d'expérience de production en Go, mais ma pratique de plusieurs langages backend (TypeScript/Node, Python, Java) me permettra de monter rapidement. J'ai opéré PostgreSQL (SQL brut, migrations) et je suis à l'aise pour approfondir le cœur infra DB (branching, backups, réplication) propre au produit.
+
+### Selections made
+
+1. **Work authorization:** Yes
+2. **Sponsorship:** No
+
+### Other field values
+
+1. **Name:** Werner Dia Black
+2. **Email:** werner.diablack@gmail.com
+3. **Phone:** +33750954317
+4. **Location:** Paris, Île-de-France (France, EU)
+5. **LinkedIn:** https://www.linkedin.com/in/werner-diablack
+6. **GitHub:** https://github.com/Werner-DB
+7. **Years of experience:** ~4 years professional experience
+8. **Notice period:** 90 days (3 months)
+9. **Availability:** Available subject to 90-day (3-month) notice period
+
+### Files used
+
+1. **Resume (CV):** output/cv-candidate-087-supabase-branching-2026-11-09.pdf
