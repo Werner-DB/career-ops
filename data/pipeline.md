@@ -8,6 +8,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 
 
+
 ## Processed
 
 - [x] [098](../reports/098-resend-developer-tools-2026-11-09.md) | https://jobs.ashbyhq.com/resend/53d3710a-2d55-42ac-ba90-cdfd306bf560 | Resend | Software Engineer, Developer Tools | 4.0/5 | PDF ✅

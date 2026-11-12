@@ -6,7 +6,6 @@
 51	output/cv-candidate-031-camunda-2026-11-09.pdf	output/cv-candidate-031-camunda.html	a4	2026-11-09	cv
 063	output/cv-candidate-063-linear-2026-11-09.pdf	output/cv-candidate-063-linear.html	a4	2026-11-09	cv
 033	output/cv-candidate-033-photoroom-2026-11-09.pdf	output/cv-candidate-033-photoroom.html	a4	2026-11-09	cv
-034	output/cv-candidate-034-upflow-2026-11-09.pdf	output/cv-candidate-034-upflow.html	a4	2026-11-09	cv
 035	output/cv-candidate-035-escape-2026-11-09.pdf	output/cv-candidate-035-escape.html	a4	2026-11-09	cv
 036	output/cv-candidate-036-alma-2026-11-09.pdf	output/cv-candidate-036-alma.html	a4	2026-11-09	cv
 037	output/cv-candidate-037-morpho-2026-11-09.pdf	output/cv-candidate-037-morpho.html	a4	2026-11-09	cv
@@ -19,8 +18,6 @@
 044	output/cv-candidate-044-mistral-ai-swe-golang-sandbox-2026-11-09.pdf	output/cv-candidate-044-mistral-ai-swe-golang-sandbox.html	a4	2026-11-09	cv
 045	output/cv-candidate-045-mistral-ai-swe-golang-managed-k8s-2026-11-09.pdf	output/cv-candidate-045-mistral-ai-swe-golang-managed-k8s.html	a4	2026-11-09	cv
 046	output/cv-candidate-046-mistral-ai-swe-frontend-2026-11-09.pdf	output/cv-candidate-046-mistral-ai-swe-frontend.html	a4	2026-11-09	cv
-047	output/cv-candidate-047-plentific-2026-11-09.pdf	output/cv-candidate-047-plentific.html	a4	2026-11-09	cv
-048	output/cv-candidate-048-trigger-dev-2026-11-09.pdf	output/cv-candidate-048-trigger-dev.html	a4	2026-11-09	cv
 049	output/cv-candidate-049-duna-2026-11-09.pdf	output/cv-candidate-049-duna.html	a4	2026-11-09	cv
 050	output/cv-candidate-050-enode-2026-11-09.pdf	output/cv-candidate-050-enode.html	a4	2026-11-09	cv
 052	output/cv-candidate-052-constructor-2026-11-09.pdf	output/cv-candidate-052-constructor.html	a4	2026-11-09	cv
@@ -42,12 +39,9 @@
 058	output/cv-candidate-058-lightning-labs-2026-11-09.pdf	output/cv-candidate-058-lightning-labs.html	a4	2026-11-09	cv
 059	output/cv-candidate-059-virtualitics-2026-11-09.pdf	output/cv-candidate-059-virtualitics.html	a4	2026-11-09	cv
 060	output/cv-candidate-060-scalera-2026-11-09.pdf	output/cv-candidate-060-scalera.html	a4	2026-11-09	cv
-072	output/cv-candidate-072-elevenlabs-fullstack-backend-2026-11-09.pdf	output/cv-candidate-072-elevenlabs-fullstack-backend.html	a4	2026-11-09	cv
-073	output/cv-candidate-073-resend-backend-mta-2026-11-09.pdf	output/cv-candidate-073-resend-backend-mta.html	a4	2026-11-09	cv
 074	output/cv-candidate-074-resend-trust-safety-2026-11-09.pdf	output/cv-candidate-074-resend-trust-safety.html	a4	2026-11-09	cv
 075	output/cv-candidate-075-supabase-ai-tooling-infra-2026-11-09.pdf	output/cv-candidate-075-supabase-ai-tooling-infra.html	a4	2026-11-09	cv
 082	output/cv-candidate-082-n8n-staff-platform-2026-11-09.pdf	output/cv-candidate-082-n8n-staff-platform.html	a4	2026-11-09	cv
-084	output/cv-candidate-084-n8n-senior-product-engineer-2026-11-09.pdf	output/cv-candidate-084-n8n-senior-product-engineer.html	a4	2026-11-09	cv
 085	output/cv-candidate-085-duvo-product-engineer-2026-11-09.pdf	output/cv-candidate-085-duvo-product-engineer.html	a4	2026-11-09	cv
 086	output/cv-candidate-086-supabase-auth-2026-11-09.pdf	output/cv-candidate-086-supabase-auth.html	a4	2026-11-09	cv
 087	output/cv-candidate-087-supabase-branching-2026-11-09.pdf	output/cv-candidate-087-supabase-branching.html	a4	2026-11-09	cv
@@ -65,3 +59,7 @@
 099	output/cv-candidate-099-elevenlabs-mexico-2026-11-09.pdf	output/cv-candidate-099-elevenlabs-mexico.html	a4	2026-11-09	cv
 100	output/cv-candidate-100-spotify-toronto-2026-11-09.pdf	output/cv-candidate-100-spotify-toronto.html	a4	2026-11-09	cv
 101	output/cv-candidate-101-cohere-inference-2026-11-09.pdf	output/cv-candidate-101-cohere-inference.html	a4	2026-11-09	cv
+048	output/en-cv-048-trigger-dev-EN.pdf	output/en-cv-048-trigger-dev.html	a4	2026-11-09	cv
+072	output/en-cv-072-elevenlabs-fullstack-backend-EN.pdf	output/en-cv-072-elevenlabs-fullstack-backend.html	a4	2026-11-09	cv
+073	output/en-cv-073-resend-backend-mta-EN.pdf	output/en-cv-073-resend-backend-mta.html	a4	2026-11-09	cv
+084	output/en-cv-084-n8n-senior-product-engineer-EN.pdf	output/en-cv-084-n8n-senior-product-engineer.html	a4	2026-11-09	cv

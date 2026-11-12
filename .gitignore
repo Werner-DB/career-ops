@@ -310,3 +310,6 @@ data/interview-prep/
 .next/
 web/.next/
 web/out/
+
+# Nested career-ops install (own git repo, cloned separately in a Codespace)
+/career-ops/
